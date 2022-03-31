@@ -1,2 +1,2 @@
-at the root of the folder of the project, describing what each script is doing
-the tasks given 
+You should use exactly 8 characters for your command (+1 character for the new line)
+You can assume that the user betty will exist when we will run your script
