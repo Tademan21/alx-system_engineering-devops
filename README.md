@@ -1,2 +1,1 @@
-Create a script that switches the current user to the user Tade
-new read me
+Works now
