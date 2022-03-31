@@ -1,1 +1,0 @@
-understand shell perimision
