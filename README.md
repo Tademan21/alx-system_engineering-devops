@@ -1,3 +1,2 @@
-What is the shell objectivies 
-to do the following activities 
-What do the commands chmod, sudo, su, chown, chgrp do
+Create a script that switches the current user to the user Tade
+
