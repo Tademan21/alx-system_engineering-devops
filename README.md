@@ -1,4 +1,3 @@
-What is the shell
-What is the difference between a terminal and a shell
-What is the shell prompt
-How to use the history (the basics)
+What is the shell objectivies 
+to do the following activities 
+What do the commands chmod, sudo, su, chown, chgrp do
