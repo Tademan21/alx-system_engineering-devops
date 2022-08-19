@@ -1,9 +1,7 @@
-splays "Best School" 10 times using a while loop.
+s script is displaying "Best School" 10 times
 
-count=0
-
-while [ $count -lt 10 ]
-do
-  echo "Best School"
-  (( count++ ))
+i=1
+while [ $i -le 10 ]; do
+	echo "Best School"
+	((i++))
 done
