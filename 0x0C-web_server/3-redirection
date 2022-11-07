@@ -15,7 +15,7 @@ printf %s "server {
     }
 }"
 sudo service nginx start
-newlines="\\\trewrite ^/redirect_me https://www.youtube.com/watch?v=QH2-TGUlwu4 permanent;"
+newlines="\\\trewrite ^/redirect_me https://https://www.youtube.com/watch?v=QH2-TGUlwu4"
 sudo sed -i "26i $newlines" /etc/nginx/sites-available/default
 sudo service nginx restart
 sudo service nginx reload
