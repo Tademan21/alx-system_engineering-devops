@@ -3,5 +3,5 @@
 sudo apt-get -y update
 sudo apt-get -y install nginx
 sudo ufw allow 'Nginx HTTP'
-echo "Hello World!" | sudo /etc/nginx/sites-enabled/default"
+echo "Hello World!" | sudo cp/etc/nginx/sites-available/default
 sudo service nginx restart
