@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+cript that displays a list of currently running processes
+=======
+#!/usr/bin/env bash
+# script that displays a list of currently running processes
+>>>>>>> 9e1a3642df97555836d48327e1f06eee20befe86
+ps -faux
